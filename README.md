@@ -1,5 +1,4 @@
 ## Hey there, I'm Cameron, a Software Developer!
-___
 
 I'm mostly using this account for small projects, testing, and learning new things. If you find anything you like, 
 feel free to fork and use it as needed!
